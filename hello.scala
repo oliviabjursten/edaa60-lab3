@@ -3,7 +3,7 @@ object HelloWorld {
     println("är detta typ 23e försöket?")
     println("försök 989??    HEJ :)")
     println("Hej på dej Olivia")
-    println(" programmering är kul")
+    println(" programmering är superkul faktiskt")
     println(" snälla fungeraaa i alla fall denna gång ")
   }
 }
