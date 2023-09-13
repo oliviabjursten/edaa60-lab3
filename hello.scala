@@ -3,6 +3,5 @@ object HelloWorld {
     println("försök 989??    HEJ :)")
     println("Hej på dej Olivia")
     println(" programmering är superkul faktiskt")
-    println(" banan äpple ")
   }
 }
