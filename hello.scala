@@ -4,5 +4,6 @@ object HelloWorld {
     println("Hej på dej Olivia")
     println(" programmering är superkul faktiskt")
     println(" banan äpple ")
+    println("00:00")
   }
 }
