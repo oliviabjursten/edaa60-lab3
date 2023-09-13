@@ -1,5 +1,5 @@
 object HelloWorld {
   def main(args:Array[String]): Unit = {
-    println("tjo brush")
+    println("är detta typ 23e försöket?")
   }
 }
